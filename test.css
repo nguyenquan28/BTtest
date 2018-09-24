@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .user1{
 	color: green;
 }
 .user2{}
+=======
+.user1{}
+.user2{
+	color: red;
+}
+>>>>>>> user2
